@@ -1,0 +1,13 @@
+.myButton {
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+  border: 1px solid #000;
+  background-color: Transparent;
+  margin-top: 20px;
+  margin-left: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
